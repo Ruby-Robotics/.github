@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+# This is the main page for Ruby Robotics
 <!--
 
 **Here are some ideas to get you started:**
