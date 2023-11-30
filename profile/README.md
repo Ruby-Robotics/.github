@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 👋, this is the main page for Ruby Robotics
+We are currently too busy to fill in this page, but we will soon
 
-# This is the main page for Ruby Robotics
 <!--
 
 **Here are some ideas to get you started:**
